@@ -1,0 +1,8 @@
+{
+    "cortex-debug.armToolchainPath": "/home/r6djo/stm32/gcc-arm-none-eabi/bin",
+    "cortex-debug.openocdPath": "/home/r6djo/stm32/openocd/bin/openocd",
+    "cortex-debug.variableUseNaturalFormat": true,
+    "files.associations": {
+        "usb_device.h": "c"
+    }
+}
